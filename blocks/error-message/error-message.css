@@ -1,0 +1,10 @@
+@import url(./_show/error-message_show.css);
+@import url(./_hidden/error-message_hidden.css);
+.error-message {
+  color: #FF3333;
+  font-size: 0.8em;
+  transition: .3s;
+  padding: 5px 6px 13px;
+ 
+}
+
