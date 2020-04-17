@@ -1,0 +1,22 @@
+{
+  "name": "mesto",
+  "version": "2.0.0",
+  "description": "beautiful places here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t0nyhat/mesto.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "t0nyhat <elkobrat@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t0nyhat/mesto/issues"
+  },
+  "homepage": "https://github.com/t0nyhat/mesto#readme"
+}
