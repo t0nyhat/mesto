@@ -1,4 +1,4 @@
-class Card {
+export default class Card {
   constructor(cardObject, userId, api) {
     this.cardElement = null;
     this.name = cardObject.name;

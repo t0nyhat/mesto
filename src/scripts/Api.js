@@ -1,4 +1,4 @@
-class Api {
+export default class Api {
   constructor(options) {
     this.options = options;
 
@@ -187,11 +187,4 @@ class Api {
 
   // другие методы работы с API
 }
-/**REVIEW. Можно лучше. Создавать экземпляр Api лучше там там же, где Вы создаёте экземпляры всех классов - в script.js. */
-const api = new Api({
-  baseUrl: "https://praktikum.tk/cohort9",
-  headers: {
-    authorization: "371f243d-a4a5-4ca5-b415-b8dcc6b3808c",
-    "Content-Type": "application/json"
-  }
-});
+
