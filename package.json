@@ -1,6 +1,6 @@
 {
   "name": "mesto",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "beautiful places here",
   "main": "index.js",
   "scripts": {
