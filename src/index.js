@@ -164,7 +164,6 @@ document
     .addEventListener("submit", event => submitAvatarUpdate(event));
 
 
-
 /* REVIEW  по заданию 9.
 
 Взаимодействие с сервером происходит правильно.
